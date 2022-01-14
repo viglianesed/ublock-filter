@@ -43,3 +43,26 @@ www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-o
 www.youtube.com##.style-default.ytd-topbar-menu-button-renderer.style-scope
 www.youtube.com###voice-search-button
 www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope > .ytd-rich-section-renderer.style-scope
+
+! Miner
+miner.justforfun.ddns.net###twitter
+miner.justforfun.ddns.net##.text-center.alert-info.alert
+miner.justforfun.ddns.net##.footer > .container
+miner.justforfun.ddns.net##.highcharts-credits
+miner.justforfun.ddns.net##.smallTooltip.worker-rate-col.text-center .glyphicon-tooltip.glyphicon-info-sign.glyphicon
+miner.justforfun.ddns.net##.navbar-brand
+
+! Psyndora
+www.psyndora.com##[src="images/android.png"]
+www.psyndora.com##[src="images/iphone.png"]
+www.psyndora.com###t2 > blink > font
+www.psyndora.com##marquee > font
+
+! Whatsapp
+web.whatsapp.com##span > div.rAUz7:nth-of-type(1) > div
+
+! LinkedIn
+www.linkedin.com##.premium-upsell-link--extra-long.global-nav__spotlight-upsell.global-nav__primary-link--premium.global-nav__primary-link.link-without-visited-state.app-aware-link
+www.linkedin.com###ember2624
+www.linkedin.com##.ember-view.pv-browsemap-section__wrapper.artdeco-card
+www.linkedin.com###ember2674
