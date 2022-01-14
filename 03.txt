@@ -1,0 +1,17 @@
+! 2021-05-05 https://code.justforfun.ddns.net
+@@||justforfun.ddns.net^$websocket,1p
+@@||speedtest.net^$websocket,1p
+@@||web.whatsapp.com^$websocket,1p
+@@||push.prod.netflix.com/ws$websocket,1p
+@@||web.telegram.org^$websocket,1p
+
+! 2021-08-26 https://www.speedtest.net
+@@||speedtest.livedrive.com:8080/ws$websocket,domain=www.speedtest.net
+@@||ooklaserver.net:8080/ws$websocket,domain=www.speedtest.net
+
+! 2021-05-06 https://www.youtube.com
+@@||googlevideo.com/videoplayback$domain=www.youtube.com,3p
+@@||yt3.ggpht.com/yti/*$domain=www.youtube.com
+
+! Disable all websockets
+*$websocket
