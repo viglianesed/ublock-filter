@@ -12,10 +12,25 @@
 ! 11: Add button
 ! 12: Remove button - odd
 ! 13: Remove button - even
-DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com,azure-dns.ad.xenith.uk.com###temperature
-DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com,azure-dns.ad.xenith.uk.com##.tree.sidebar-menu [href="https://pi-hole.net/donate/"]
-DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com,azure-dns.ad.xenith.uk.com##.user-menu.user.dropdown
-DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com,azure-dns.ad.xenith.uk.com##.col-sm-6.col-xs-12
+azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com,azure-dns.ad.xenith.uk.com###temperature
+azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com,azure-dns.ad.xenith.uk.com##.tree.sidebar-menu [href="https://pi-hole.net/donate/"]
+azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com,azure-dns.ad.xenith.uk.com##.user-menu.user.dropdown
+azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com,azure-dns.ad.xenith.uk.com##.col-sm-6.col-xs-12
+azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com##li:nth-of-type(11)
+azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com###pihole-disable > [href="#"]
+azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com##li:nth-of-type(5) > [href^="groups-domains.php"]
+azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com##li:nth-of-type(6) > [href^="groups-domains.php"]
+azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com##li.treeview:nth-of-type(7) > [href="#"]
+azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com##li.treeview:nth-of-type(10) > [href="#"]
+azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com##.pull-right.btn-primary.btn
+azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com##tr.odd > td > .deleteCustomDNS.btn-xs.btn-danger.btn
+azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com##tr.even > td > .deleteCustomDNS.btn-xs.btn-danger.btn
+azure-dns01.ad.xenith.uk.com,azure-dns02.ad.xenith.uk.com##.version-info.text-center.row-centered.row
+! Old Azure and London DNS server
+DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com###temperature
+DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##.tree.sidebar-menu [href="https://pi-hole.net/donate/"]
+DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##.user-menu.user.dropdown
+DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##.col-sm-6.col-xs-12
 DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##li:nth-of-type(11)
 DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com###pihole-disable > [href="#"]
 DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##li:nth-of-type(5) > [href^="groups-domains.php"]
