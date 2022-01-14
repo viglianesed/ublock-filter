@@ -1,0 +1,28 @@
+! List of Pi-hole junk
+! 1: Temperature
+! 2: Donate menu entry
+! 3: Pi-hole button top-right
+! 4: Donate on footer
+! 5: Settings
+! 6: Disable
+! 7: Whitelist
+! 8: Blacklist
+! 9: Group management
+! 10: Tools
+! 11: Add button
+! 12: Remove button - odd
+! 13: Remove button - even
+DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com,azure-dns.ad.xenith.uk.com###temperature
+DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com,azure-dns.ad.xenith.uk.com##.tree.sidebar-menu [href="https://pi-hole.net/donate/"]
+DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com,azure-dns.ad.xenith.uk.com##.user-menu.user.dropdown
+DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com,azure-dns.ad.xenith.uk.com##.col-sm-6.col-xs-12
+DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##li:nth-of-type(11)
+DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com###pihole-disable > [href="#"]
+DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##li:nth-of-type(5) > [href^="groups-domains.php"]
+DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##li:nth-of-type(6) > [href^="groups-domains.php"]
+DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##li.treeview:nth-of-type(7) > [href="#"]
+DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##li.treeview:nth-of-type(10) > [href="#"]
+DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##.pull-right.btn-primary.btn
+DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##tr.odd > td > .deleteCustomDNS.btn-xs.btn-danger.btn
+DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##tr.even > td > .deleteCustomDNS.btn-xs.btn-danger.btn
+DNS01.ad.xenith.uk.com,london-dns01.ad.xenith.uk.com##.version-info.text-center.row-centered.row
