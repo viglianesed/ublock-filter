@@ -1,0 +1,45 @@
+! TeamsPasswordManager free version banner
+password.justforfun.ddns.net###free_version_footer
+
+! Searx logo
+search.justforfun.ddns.net##small
+||search.justforfun.ddns.net/static/themes/oscar/img/logo_searx_a.png$image
+
+! List of Pi-hole junk
+! 1: Temperature
+! 2: Donate menu entry
+! 3: Pi-hole button top-right
+! 4: Donate on footer
+! 5: Settings
+! 6: Disable
+! 7: Whitelist
+! 8: Blacklist
+! 9: Group management
+! 10: Tools
+! 11: Add button
+! 12: Remove button - odd
+! 13: Remove button - even
+no-vpn-dns.justforfun.ddns.net,vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net###temperature
+no-vpn-dns.justforfun.ddns.net,vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##.tree.sidebar-menu [href="https://pi-hole.net/donate/"]
+no-vpn-dns.justforfun.ddns.net,vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##.user-menu.user.dropdown
+no-vpn-dns.justforfun.ddns.net,vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##.col-sm-6.col-xs-12
+vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##li:nth-of-type(11)
+vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net###pihole-disable > [href="#"]
+vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##li:nth-of-type(5) > [href^="groups-domains.php"]
+vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##li:nth-of-type(6) > [href^="groups-domains.php"]
+vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##li.treeview:nth-of-type(7) > [href="#"]
+vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##li.treeview:nth-of-type(10) > [href="#"]
+vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##.pull-right.btn-primary.btn
+vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##tr.odd > td > .deleteCustomDNS.btn-xs.btn-danger.btn
+vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##tr.even > td > .deleteCustomDNS.btn-xs.btn-danger.btn
+vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##.version-info.text-center.row-centered.row
+
+! YouTube
+! 1: More from youtube - left
+! 2: Create, youtube apps - top right
+! 3: voice search
+! 4: top news and top posts
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com##.style-default.ytd-topbar-menu-button-renderer.style-scope
+www.youtube.com###voice-search-button
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope > .ytd-rich-section-renderer.style-scope
