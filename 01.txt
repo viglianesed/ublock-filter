@@ -66,3 +66,20 @@ www.linkedin.com##.premium-upsell-link--extra-long.global-nav__spotlight-upsell.
 www.linkedin.com###ember2624
 www.linkedin.com##.ember-view.pv-browsemap-section__wrapper.artdeco-card
 www.linkedin.com###ember2674
+
+! Jottacloud
+! 1. chat
+! 2. chat
+! 3. photos
+! 4. photos
+! 5. subscriptions
+! 6. permanently delete account
+! 7. downgrade subscription
+www.jottacloud.com##.e1ii8mwa0.intercom-13nhk0c
+www.jottacloud.com##a.css-qr7stp:nth-of-type(2)
+www.jottacloud.com##.photos.nav-item.jsx-1522806790
+www.jottacloud.com##a.css-qr7stp:nth-of-type(4)
+www.jottacloud.com##.upgrade.nav-item.jsx-1522806790
+www.jottacloud.com##.upgrade.nav-item.jsx-1522806790
+www.jottacloud.com##div.css-1ue404i:nth-of-type(2)
+www.jottacloud.com##div.css-1ue404i:nth-of-type(3)
