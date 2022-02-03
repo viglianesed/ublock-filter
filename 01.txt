@@ -90,3 +90,8 @@ www.jottacloud.com##div.css-1ue404i:nth-of-type(2)
 www.jottacloud.com##div.css-1ue404i:nth-of-type(3)
 www.jottacloud.com##.e1ii8mwa0.intercom-15xpo8o
 
+! Trello
+! Premium subscription
+trello.com##.card-back-card-back-upgrade-prompt-section
+trello.com##._3msLKsLRQ8CM1j
+trello.com##.WJuil0FwI_BEzU._3ZMZxLwe1qn8MS
