@@ -1,9 +1,12 @@
 ! TeamsPasswordManager free version banner
 password.justforfun.ddns.net###free_version_footer
 
-! Searx logo
+! Searx
+! logo
+! results timeout
 search.justforfun.ddns.net##small
 ||search.justforfun.ddns.net/static/themes/oscar/img/logo_searx_a.png$image
+search.justforfun.ddns.net##.in.fade.alert-danger.alert
 
 ! Nas
 ! 1. Page indicator
