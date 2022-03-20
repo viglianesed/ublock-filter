@@ -1,5 +1,6 @@
 ! 2021-05-05 https://code.justforfun.ddns.net
 @@||justforfun.ddns.net^$websocket,1p
+@@||viglianese.com^$websocket,1p
 @@||speedtest.net^$websocket,1p
 @@||web.whatsapp.com^$websocket,1p
 @@||push.prod.netflix.com/ws$websocket,1p
