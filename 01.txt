@@ -26,10 +26,10 @@ nas.justforfun.ddns.net##.page-tag-list
 ! 11: Add button
 ! 12: Remove button - odd
 ! 13: Remove button - even
-10.0.0.248,10.0.0.250,no-vpn-dns.justforfun.ddns.net,vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net###temperature
-10.0.0.248,10.0.0.250,no-vpn-dns.justforfun.ddns.net,vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##.tree.sidebar-menu [href="https://pi-hole.net/donate/"]
-10.0.0.248,10.0.0.250,no-vpn-dns.justforfun.ddns.net,vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##.user-menu.user.dropdown
-10.0.0.248,10.0.0.250,no-vpn-dns.justforfun.ddns.net,vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##.col-sm-6.col-xs-12
+dns02.viglianese.com,dns01.viglianese.com,10.0.0.248,10.0.0.250,no-vpn-dns.justforfun.ddns.net,vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net###temperature
+dns02.viglianese.com,dns01.viglianese.com,10.0.0.248,10.0.0.250,no-vpn-dns.justforfun.ddns.net,vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##.tree.sidebar-menu [href="https://pi-hole.net/donate/"]
+dns02.viglianese.com,dns01.viglianese.com,10.0.0.248,10.0.0.250,no-vpn-dns.justforfun.ddns.net,vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##.user-menu.user.dropdown
+dns02.viglianese.com,dns01.viglianese.com,10.0.0.248,10.0.0.250,no-vpn-dns.justforfun.ddns.net,vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##.col-sm-6.col-xs-12
 vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##li:nth-of-type(11)
 vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net###pihole-disable > [href="#"]
 vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##li:nth-of-type(5) > [href^="groups-domains.php"]
