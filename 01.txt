@@ -4,13 +4,13 @@ password.justforfun.ddns.net###free_version_footer
 ! Searx
 ! logo
 ! results timeout
-search.justforfun.ddns.net##small
-||search.justforfun.ddns.net/static/themes/oscar/img/logo_searx_a.png$image
-search.justforfun.ddns.net##.in.fade.alert-danger.alert
+search.viglianese.com##small
+||search.viglianese.com/static/themes/oscar/img/logo_searx_a.png$image
+search.viglianese.com##.in.fade.alert-danger.alert
 
 ! Nas
 ! 1. Page indicator
-nas.justforfun.ddns.net##.page-tag-list
+nas.viglianese.com##.page-tag-list
 
 ! List of Pi-hole junk
 ! 1: Temperature
@@ -26,20 +26,20 @@ nas.justforfun.ddns.net##.page-tag-list
 ! 11: Add button
 ! 12: Remove button - odd
 ! 13: Remove button - even
-dns02.viglianese.com,dns01.viglianese.com,10.0.0.248,10.0.0.250,no-vpn-dns.justforfun.ddns.net,vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net###temperature
-dns02.viglianese.com,dns01.viglianese.com,10.0.0.248,10.0.0.250,no-vpn-dns.justforfun.ddns.net,vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##.tree.sidebar-menu [href="https://pi-hole.net/donate/"]
-dns02.viglianese.com,dns01.viglianese.com,10.0.0.248,10.0.0.250,no-vpn-dns.justforfun.ddns.net,vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##.user-menu.user.dropdown
-dns02.viglianese.com,dns01.viglianese.com,10.0.0.248,10.0.0.250,no-vpn-dns.justforfun.ddns.net,vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##.col-sm-6.col-xs-12
-vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##li:nth-of-type(11)
-vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net###pihole-disable > [href="#"]
-vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##li:nth-of-type(5) > [href^="groups-domains.php"]
-vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##li:nth-of-type(6) > [href^="groups-domains.php"]
-vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##li.treeview:nth-of-type(7) > [href="#"]
-vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##li.treeview:nth-of-type(10) > [href="#"]
-vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##.pull-right.btn-primary.btn
-vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##tr.odd > td > .deleteCustomDNS.btn-xs.btn-danger.btn
-vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##tr.even > td > .deleteCustomDNS.btn-xs.btn-danger.btn
-vpn-uk-dns.justforfun.ddns.net,vpn-it-dns.justforfun.ddns.net,vpn-fr-dns.justforfun.ddns.net,vpn-de-dns.justforfun.ddns.net##.version-info.text-center.row-centered.row
+10.0.0.246,10.0.0.245,10.0.0.244,10.0.0.243###temperature
+10.0.0.246,10.0.0.245,10.0.0.244,10.0.0.243##.tree.sidebar-menu [href="https://pi-hole.net/donate/"]
+10.0.0.246,10.0.0.245,10.0.0.244,10.0.0.243##.user-menu.user.dropdown
+10.0.0.246,10.0.0.245,10.0.0.244,10.0.0.243##.col-sm-6.col-xs-12
+10.0.0.244,10.0.0.243##li:nth-of-type(11)
+10.0.0.244,10.0.0.243###pihole-disable > [href="#"]
+10.0.0.244,10.0.0.243##li:nth-of-type(5) > [href^="groups-domains.php"]
+10.0.0.244,10.0.0.243##li:nth-of-type(6) > [href^="groups-domains.php"]
+10.0.0.244,10.0.0.243##li.treeview:nth-of-type(7) > [href="#"]
+10.0.0.244,10.0.0.243##li.treeview:nth-of-type(10) > [href="#"]
+10.0.0.244,10.0.0.243##.pull-right.btn-primary.btn
+10.0.0.244,10.0.0.243##tr.odd > td > .deleteCustomDNS.btn-xs.btn-danger.btn
+10.0.0.244,10.0.0.243##tr.even > td > .deleteCustomDNS.btn-xs.btn-danger.btn
+10.0.0.244,10.0.0.243##.version-info.text-center.row-centered.row
 
 ! YouTube
 ! 1: More from youtube - left
@@ -52,12 +52,12 @@ www.youtube.com###voice-search-button
 www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope > .ytd-rich-section-renderer.style-scope
 
 ! Miner
-miner.justforfun.ddns.net###twitter
-miner.justforfun.ddns.net##.text-center.alert-info.alert
-miner.justforfun.ddns.net##.footer > .container
-miner.justforfun.ddns.net##.highcharts-credits
-miner.justforfun.ddns.net##.smallTooltip.worker-rate-col.text-center .glyphicon-tooltip.glyphicon-info-sign.glyphicon
-miner.justforfun.ddns.net##.navbar-brand
+!miner.justforfun.ddns.net###twitter
+!miner.justforfun.ddns.net##.text-center.alert-info.alert
+!miner.justforfun.ddns.net##.footer > .container
+!miner.justforfun.ddns.net##.highcharts-credits
+!miner.justforfun.ddns.net##.smallTooltip.worker-rate-col.text-center .glyphicon-tooltip.glyphicon-info-sign.glyphicon
+!miner.justforfun.ddns.net##.navbar-brand
 
 ! Psyndora
 www.psyndora.com##[src="images/android.png"]
